@@ -1,0 +1,22 @@
+{
+  "name": "rubiks-cube",
+  "version": "1.0.0",
+  "description": "A rubiks cube made with three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudson-pace/rubiks-cube.git"
+  },
+  "author": "Hudson Pace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudson-pace/rubiks-cube/issues"
+  },
+  "homepage": "https://github.com/hudson-pace/rubiks-cube#readme",
+  "dependencies": {
+    "three": "^0.160.0"
+  }
+}
