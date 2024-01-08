@@ -1,5 +1,5 @@
 import ComponentCube from './component-cube.js';
-import * as THREE from './node_modules/three/build/three.module.js';
+import * as THREE from 'three';
 
 export default class Cube {
   faces = {};
